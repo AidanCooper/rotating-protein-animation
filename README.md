@@ -1,4 +1,4 @@
-# Animated Rotating Proteins and Molecules in Blender
+# Rotating Protein and Molecule Animations in Blender
 
 ![Rotating protein GIF](examples/animations/2wy4_constant_rotation_100quality.gif#center?raw=true "Rotating protein GIF")
 
