@@ -25,5 +25,4 @@ def convertFile(inputpath, targetFormat):
     print("Done.")
 
     
-convertFile("constant_rotation_100quality.avi", TargetFormat.GIF)
-convertFile("default_rotation_90quality.avi", TargetFormat.GIF)
+convertFile("6cq7_constant_rotation_100quality.avi", TargetFormat.GIF)
