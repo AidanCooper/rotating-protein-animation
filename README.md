@@ -2,7 +2,7 @@
 
 ![Rotating protein GIF](examples/animations/2wy4_constant_rotation_100quality.gif#center?raw=true "Rotating protein GIF")
 
-This repository provides step-by-step instructions for creating a rotating animation of a protein or molecule in Blender from an imported .pdb file. Examples can be found under [examples/animations](examples/animations).
+This repository provides step-by-step instructions for creating an animation of a rotating protein or molecule in Blender from an imported .pdb file. Examples can be found under [examples/animations](examples/animations).
 
 ## Instructions
 
