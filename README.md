@@ -57,15 +57,16 @@ Find a .pdb file for a protein or molecule that you would like to animate. These
 
 11. For every atom or stick in the file (I've not found a reliable way to perform this for everything at once), perform the following steps:
 
-..1. Set the `Current Frame` to 1.
 
-..2. Insert a keyframe under `Animation > Keyframes:Insert > Rotation`.
+  * Set the `Current Frame` to 1.
+
+  * Insert a keyframe under `Animation > Keyframes:Insert > Rotation`.
 
 ![Insert keyframe](screenshots/5_insert_keyframe.png#center?raw=true "Insert keyframe")
 
-..3. Change the `Current Frame` to 180, and set the object z rotation to 358.
+  * Change the `Current Frame` to 180, and set the object z rotation to 358.
 
-..4. Insert another keyframe, as above in step 2.
+  * Insert another keyframe, as above in step 2.
 
 ![Insert keyframe](screenshots/6_insert_keyframe.png#center?raw=true "Insert keyframe")
 
